@@ -1,0 +1,3 @@
+cd /workspace/home
+
+python3 civitaidownload.py https://civitai.com/api/download/models/306220 /workspace/ComfyUI/models/checkpoints/
